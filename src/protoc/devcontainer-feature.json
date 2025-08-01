@@ -1,0 +1,13 @@
+{
+    "name": "Protocol Buffer Compiler (protoc)",
+    "id": "protoc",
+    "version": "1.0.0",
+    "description": "A feature to install the protoc.",
+    "options": {
+        "version": {
+            "type": "string",
+            "default": "latest",
+            "description": "enter a protoc version."
+        }
+    }
+}
