@@ -8,10 +8,11 @@ This repository is a collection of reusable Dev Container Features that can be u
 
 The following Features are currently available in this repository:
 
-| Feature Name                       | Description                             |
-| ---------------------------------- | --------------------------------------- |
-| [vim](src/vim/README.md)           | Installs the latest version of Vim      |
-| [homebrew](src/homebrew/README.md) | Installs the latest version of Homebrew |
+| Feature Name                       | Description                                             |
+| ---------------------------------- | ------------------------------------------------------- |
+| [homebrew](src/homebrew/README.md) | Installs the latest version of Homebrew                 |
+| [protoc](src/protoc/README.md)     | Installs the latest version of Protocol Buffer Compiler |
+| [vim](src/vim/README.md)           | Installs the latest version of Vim                      |
 
 ## Usage
 
